@@ -1,4 +1,0 @@
-una linea
-otra linea
-tercera linea
-cuarta linea
